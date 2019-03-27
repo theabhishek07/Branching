@@ -14,4 +14,6 @@ break ;
 printf("%c",ch) ;  
 }  
 fclose (fp ) ;  
-}  
+} 
+
+End of program.
